@@ -1,6 +1,6 @@
 package myFirstClass;
 
-public class firstChallenge {
+public class FirstChallenge {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
             if (multipleRizz(i)) System.out.print("Rizz, ");
