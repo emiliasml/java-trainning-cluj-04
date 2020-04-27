@@ -2,7 +2,7 @@ package myFirstClass;
 
 import java.util.Scanner;
 
-public class secondChallenge {
+public class SecondChallenge {
     public static void main(String[] args) {
         String op = "yes";
         while (op.equals("yes")) {
